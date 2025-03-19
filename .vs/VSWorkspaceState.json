@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\CashFlow.API",
+    "\\src\\CashFlow.Application\\UseCases",
+    "\\src\\CashFlow.Application\\UseCases\\Expenses",
+    "\\src\\CashFlow.Application\\UseCases\\Expenses\\Register"
+  ],
+  "SelectedNode": "\\src\\CashFlow.Application",
+  "PreviewInSolutionExplorer": false
+}

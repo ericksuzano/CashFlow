@@ -1,0 +1,66 @@
+D:\Projetos C#\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.deps.json
+D:\Projetos C#\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.dll
+D:\Projetos C#\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.pdb
+D:\Projetos C#\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Domain.dll
+D:\Projetos C#\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Domain.pdb
+D:\Projetos C#\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.csproj.AssemblyReference.cache
+D:\Projetos C#\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.AssemblyInfoInputs.cache
+D:\Projetos C#\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.AssemblyInfo.cs
+D:\Projetos C#\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projetos C#\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.84FCB40E.Up2Date
+D:\Projetos C#\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.dll
+D:\Projetos C#\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\refint\CashFlow.Infrastructure.dll
+D:\Projetos C#\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.pdb
+D:\Projetos C#\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\ref\CashFlow.Infrastructure.dll
+D:\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.deps.json
+D:\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.dll
+D:\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.pdb
+D:\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Domain.dll
+D:\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Domain.pdb
+D:\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.csproj.AssemblyReference.cache
+D:\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.AssemblyInfoInputs.cache
+D:\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.AssemblyInfo.cs
+D:\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.84FCB40E.Up2Date
+D:\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.dll
+D:\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\refint\CashFlow.Infrastructure.dll
+D:\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.pdb
+D:\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\ref\CashFlow.Infrastructure.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.deps.json
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.pdb
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Domain.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Domain.pdb
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.AssemblyInfo.cs
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.84FCB40E.Up2Date
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\refint\CashFlow.Infrastructure.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.pdb
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\ref\CashFlow.Infrastructure.dll
+F:\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.deps.json
+F:\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.dll
+F:\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Infrastructure.pdb
+F:\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Domain.dll
+F:\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\CashFlow.Domain.pdb
+F:\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\pt-BR\CashFlow.Domain.resources.dll
+F:\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\pt-PT\CashFlow.Domain.resources.dll
+F:\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\fr\CashFlow.Domain.resources.dll
+F:\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.csproj.AssemblyReference.cache
+F:\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.AssemblyInfoInputs.cache
+F:\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.AssemblyInfo.cs
+F:\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.csproj.CoreCompileInputs.cache
+F:\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.84FCB40E.Up2Date
+F:\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.dll
+F:\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\refint\CashFlow.Infrastructure.dll
+F:\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\CashFlow.Infrastructure.pdb
+F:\CashFlow\src\CashFlow.Infrastructure\obj\Debug\net8.0\ref\CashFlow.Infrastructure.dll
+D:\Projetos C#\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\fr\CashFlow.Domain.resources.dll
+D:\Projetos C#\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\pt-BR\CashFlow.Domain.resources.dll
+D:\Projetos C#\CashFlow\src\CashFlow.Infrastructure\bin\Debug\net8.0\pt-PT\CashFlow.Domain.resources.dll

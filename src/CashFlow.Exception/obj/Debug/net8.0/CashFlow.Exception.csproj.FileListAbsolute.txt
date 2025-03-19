@@ -1,0 +1,88 @@
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.deps.json
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.dll
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.pdb
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.AssemblyInfoInputs.cache
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.AssemblyInfo.cs
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.csproj.CoreCompileInputs.cache
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.dll
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\refint\CashFlow.Exception.dll
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.pdb
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\ref\CashFlow.Exception.dll
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\fr\CashFlow.Exception.resources.dll
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessages.resources
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessages.fr.resources
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessages.pt-BR.resources
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessages.pt-PT.resources
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.csproj.GenerateResource.cache
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\fr\CashFlow.Exception.resources.dll
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+D:\Projetos C#\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll
+D:\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.deps.json
+D:\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.dll
+D:\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.pdb
+D:\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\fr\CashFlow.Exception.resources.dll
+D:\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+D:\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll
+D:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessages.resources
+D:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessages.fr.resources
+D:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessages.pt-BR.resources
+D:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessages.pt-PT.resources
+D:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.csproj.GenerateResource.cache
+D:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.AssemblyInfoInputs.cache
+D:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.AssemblyInfo.cs
+D:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.csproj.CoreCompileInputs.cache
+D:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\fr\CashFlow.Exception.resources.dll
+D:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+D:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll
+D:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.dll
+D:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\refint\CashFlow.Exception.dll
+D:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.pdb
+D:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\ref\CashFlow.Exception.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.deps.json
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.pdb
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\fr\CashFlow.Exception.resources.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessages.resources
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessages.fr.resources
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessages.pt-BR.resources
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessages.pt-PT.resources
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.csproj.GenerateResource.cache
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.AssemblyInfoInputs.cache
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.AssemblyInfo.cs
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.csproj.CoreCompileInputs.cache
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\fr\CashFlow.Exception.resources.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\refint\CashFlow.Exception.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.pdb
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\ref\CashFlow.Exception.dll
+F:\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.deps.json
+F:\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.dll
+F:\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.pdb
+F:\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\fr\CashFlow.Exception.resources.dll
+F:\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+F:\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll
+F:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessages.resources
+F:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessages.fr.resources
+F:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessages.pt-BR.resources
+F:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.ResourceErrorMessages.pt-PT.resources
+F:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.csproj.GenerateResource.cache
+F:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.GeneratedMSBuildEditorConfig.editorconfig
+F:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.AssemblyInfoInputs.cache
+F:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.AssemblyInfo.cs
+F:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.csproj.CoreCompileInputs.cache
+F:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\fr\CashFlow.Exception.resources.dll
+F:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+F:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll
+F:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.dll
+F:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\refint\CashFlow.Exception.dll
+F:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.pdb
+F:\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\ref\CashFlow.Exception.dll

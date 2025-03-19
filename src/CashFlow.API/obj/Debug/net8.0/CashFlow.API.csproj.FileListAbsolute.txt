@@ -1,0 +1,182 @@
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\appsettings.Development.json
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\appsettings.json
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.exe
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.deps.json
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.runtimeconfig.json
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.pdb
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\FluentValidation.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Application.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Communication.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Domain.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Exception.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Infrastructure.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Application.pdb
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Communication.pdb
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Exception.pdb
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Infrastructure.pdb
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Domain.pdb
+D:\Projetos C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.csproj.AssemblyReference.cache
+D:\Projetos C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.AssemblyInfoInputs.cache
+D:\Projetos C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.AssemblyInfo.cs
+D:\Projetos C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.csproj.CoreCompileInputs.cache
+D:\Projetos C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Projetos C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Projetos C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\Projetos C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\Projetos C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets\msbuild.CashFlow.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projetos C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets\msbuild.build.CashFlow.API.props
+D:\Projetos C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CashFlow.API.props
+D:\Projetos C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CashFlow.API.props
+D:\Projetos C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Projetos C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\scopedcss\bundle\CashFlow.API.styles.css
+D:\Projetos C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.8F1C3061.Up2Date
+D:\Projetos C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\refint\CashFlow.API.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.pdb
+D:\Projetos C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.genruntimeconfig.cache
+D:\Projetos C#\CashFlow\src\CashFlow.API\obj\Debug\net8.0\ref\CashFlow.API.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\fr\CashFlow.Exception.resources.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\appsettings.Development.json
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\appsettings.json
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.staticwebassets.endpoints.json
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.exe
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.deps.json
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.runtimeconfig.json
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.dll
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.pdb
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\FluentValidation.dll
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Application.dll
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Communication.dll
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Domain.dll
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Exception.dll
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Infrastructure.dll
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Application.pdb
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Communication.pdb
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Exception.pdb
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Infrastructure.pdb
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Domain.pdb
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\fr\CashFlow.Exception.resources.dll
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+D:\CashFlow\src\CashFlow.API\bin\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.csproj.AssemblyReference.cache
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.AssemblyInfoInputs.cache
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.AssemblyInfo.cs
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.csproj.CoreCompileInputs.cache
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.MvcApplicationPartsAssemblyInfo.cs
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.MvcApplicationPartsAssemblyInfo.cache
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\scopedcss\bundle\CashFlow.API.styles.css
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets.build.json
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets.development.json
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets\msbuild.CashFlow.API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets\msbuild.CashFlow.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets\msbuild.build.CashFlow.API.props
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CashFlow.API.props
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CashFlow.API.props
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets.pack.json
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.8F1C3061.Up2Date
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.dll
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\refint\CashFlow.API.dll
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.pdb
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.genruntimeconfig.cache
+D:\CashFlow\src\CashFlow.API\obj\Debug\net8.0\ref\CashFlow.API.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\appsettings.json
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.staticwebassets.endpoints.json
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.exe
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.deps.json
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.runtimeconfig.json
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.API.pdb
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Application.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Communication.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Domain.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Exception.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Infrastructure.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Application.pdb
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Communication.pdb
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Exception.pdb
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Infrastructure.pdb
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\CashFlow.Domain.pdb
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\fr\CashFlow.Exception.resources.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\pt-BR\CashFlow.Exception.resources.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\bin\Debug\net8.0\pt-PT\CashFlow.Exception.resources.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.csproj.AssemblyReference.cache
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.AssemblyInfoInputs.cache
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.AssemblyInfo.cs
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.csproj.CoreCompileInputs.cache
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\scopedcss\bundle\CashFlow.API.styles.css
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets\msbuild.CashFlow.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets\msbuild.CashFlow.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets\msbuild.build.CashFlow.API.props
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CashFlow.API.props
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CashFlow.API.props
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.8F1C3061.Up2Date
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\refint\CashFlow.API.dll
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.pdb
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\CashFlow.API.genruntimeconfig.cache
+C:\Users\gsuza\OneDrive\Documentos\Projeto ERICK\CashFlow\src\CashFlow.API\obj\Debug\net8.0\ref\CashFlow.API.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\AutoMapper.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\MySqlConnector.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\ClosedXML.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\ClosedXML.Parser.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\ExcelNumberFormat.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\RBush.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\SixLabors.Fonts.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\fr\CashFlow.Domain.resources.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\pt-BR\CashFlow.Domain.resources.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\pt-PT\CashFlow.Domain.resources.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\MigraDoc.DocumentObjectModel.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\MigraDoc.Rendering.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\MigraDoc.RtfRendering.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\PdfSharp.Charting.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\PdfSharp.Quality.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\PdfSharp.Snippets.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\PdfSharp.System.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\PdfSharp.WPFonts.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\PdfSharp.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\de\MigraDoc.DocumentObjectModel.resources.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\de\MigraDoc.Rendering.resources.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\de\MigraDoc.RtfRendering.resources.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\de\PdfSharp.Charting.resources.dll
+D:\Projetos C#\CashFlow\src\CashFlow.API\bin\Debug\net8.0\de\PdfSharp.resources.dll
