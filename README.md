@@ -13,7 +13,7 @@ Dentre os pacotes NuGet utilizados, o **AutoMapper** é o responsável pelo mape
 - **RESTful API com Documentação Swagger:** Interface documentada que facilita a integração e o teste por parte dos desenvolvedores.
 
 
-## Geting Started
+## Getting Started
 Para obter uma cópia local funcionando, siga estes passos simples.
 
 ### Requisitos
